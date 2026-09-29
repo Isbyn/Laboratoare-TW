@@ -1,2 +1,2 @@
 # City Explorer
-Un laboraotr creat cu html si css pentru o calatorie in jurul lumii
+Un laborator creat cu html si css pentru o calatorie in jurul lumii
